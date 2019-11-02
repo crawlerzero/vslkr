@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Jura&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+
+
+body {
+  margin: 0;
+  /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif; */
+  font-family: 'Jura', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+    background-color: black;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.vslkr-app {
+  background-color: #000000;
+}
+
+.body-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.vslkr-join-header {
+  background-color: #000000;
+}
+
+.vslkr-join-footer {
+  background-color: #000000;
+  color: #999999;
+}
+
+.vslkr-join-body {
+  background-color: #220101;
+  color: #cccccc;
+
+}
+.vslkr-join-body h1, h2 {
+  color: #ffaa00;
+}
+
+.vslkr-join-body strong {
+  color: #DDDDDD;
+}
